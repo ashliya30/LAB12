@@ -22,11 +22,7 @@ public class RainFallOutput {
 		//2. list the data in array
 		 String[][] rainfallData = {
 	                {"2421003", "Simpang Ampat", "Alor Gajah", "0", "0", "4", "1", "0", "6"},
-	                {"2322006", "Melaka Pindah", "Alor Gajah", "0", "0", "0", "0", "0", "2"},
-	                /*{"2225044", "Chohong", "Jasin", "6", "0", "0", "21", "0", "39"},
-	                {"2125002", "Telok Rimba", "Jasin", "13", "0", "0", "1", "1", "69"},
-	                {"2223023", "Sg. Duyong", "Melaka Tengah", "37", "0", "0", "3", "0", "43"},
-	                {"2222006", "Cheng (Taman Merdeka)", "Melaka Tengah", "20", "0", "0", "3", "0", "42"}*/};
+	                {"2322006", "Melaka Pindah", "Alor Gajah", "0", "0", "0", "0", "0", "2"}};
 		
 		try (
 			
